@@ -1,1 +1,2 @@
 Hello, Git!
+Now your Git file is commitedgit status
