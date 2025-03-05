@@ -1,2 +1,3 @@
-Hello, Git!
-Now your Git file is commitedgit status
+Now your file is commited!!
+:wq
+
